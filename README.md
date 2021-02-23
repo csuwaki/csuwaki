@@ -2,7 +2,7 @@
 
 ![alt README header](https://raw.githubusercontent.com/csuwaki/csuwaki/master/assert/covergit.png)
 
-[My image](csuwaki.github.com/csuwaki/img/covergit.jpg)
+[My image](csuwaki.github.com/csuwaki/covergit/covergit.jpg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
