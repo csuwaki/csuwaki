@@ -1,6 +1,6 @@
 ### Hi there, welcome to my profile. :sunny:
 
-![capa github](./images/covergit.png)
+![capa github](./images/covergithub.png)
 
 
 ---
