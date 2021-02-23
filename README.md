@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/csuwaki/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/csuwaki/<OWNER>/<OWNER>/covergit.png "Header")](https://some-url.dev/)
 
 ### Hi there 👋
 
