@@ -25,3 +25,8 @@ Pronouns: she/her. :girl:
         <img src="https://raw.githubusercontent.com/csuwaki/csuwaki/main/images/linkedin.png" alt="Connect on Linkedin">
     </a>
 </div>
+
+
+<p align="left">
+  <a href="https://linkedin.com/in/csuwaki"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/csuwaki/csuwaki/main/images/linkedin.png"></a>
+</p>
