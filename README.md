@@ -2,8 +2,7 @@
 
 ![alt text](./images/covergit.png)
 
-<div style="text-align: justify "> 
-
+<p style='text-align: justify;'> 
 
 Hello! My name is Caroline, I am an Oceanographer from Sao Paulo, Brazil. :ocean: I am currently pursuing my Master's degree in Biological Oceanography at University of Sao Paulo. I consider myself a curious person who loves to enjoy life. Riding my bike, travelling, taking pics, listening to some nice music, enjoying nature, studying about technology and spending time with friends are on the top of my list of favorite habits! 
 
@@ -11,8 +10,7 @@ I’m currently learning Python. :snake:
 
 
 Pronouns: she/her. :girl:
-
- </div>
+</p>
  
 ### Get in touch:
 
