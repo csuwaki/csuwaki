@@ -17,4 +17,4 @@ Pronouns: she/her. :girl:
 <a href="mailto:csuwaki@gmail.com"><img height="30" src="https://github.com/csuwaki/csuwaki/blob/master/images/gmail.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/csuwaki/"><img height="30" src="https://github.com/csuwaki/csuwaki/blob/master/images/insta.png"></a>&nbsp;&nbsp;
 
-<img src="https://raw.githubusercontent.com/csuwaki/csuwaki/master/images/insta.png" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/csuwaki/csuwaki/main/images/insta.png" height="auto" width="40">
