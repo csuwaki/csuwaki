@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+![alt README header](https://raw.githubusercontent.com/csuwaki/csuwaki/master/assert/covergit.png)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
