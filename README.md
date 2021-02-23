@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-![alt README header](https://raw.githubusercontent.com/csuwaki/csuwaki/master/assert/covergit.png)
+![alt text](./images/covergit.png)
 
-[My image](csuwaki.github.com/csuwaki/covergit/covergit.jpg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
