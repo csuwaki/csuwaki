@@ -13,7 +13,7 @@ Pronouns: she/her. :girl:
 ### Get in touch:
 
 <a href="https://www.linkedin.com/in/csuwaki/"><img height="30" src="https://github.com/csuwaki/csuwaki/blob/main/images/linkedin.png"></a>&nbsp;&nbsp;
-<a href="mailto:csuwaki@gmail.com"><img height="35" src="https://github.com/csuwaki/csuwaki/blob/main/images/Gmail-Logo.wine.svg"></a>&nbsp;&nbsp;
+<a href="mailto:csuwaki@gmail.com"><img height="32" src="https://github.com/csuwaki/csuwaki/blob/main/images/Gmail-Logo.wine.svg"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/csuwaki/"><img height="30" src="https://github.com/csuwaki/csuwaki/blob/main/images/insta.png"></a>&nbsp;&nbsp;
 
 
