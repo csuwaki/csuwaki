@@ -28,5 +28,5 @@ Pronouns: she/her. :girl:
 
 
 <p align="left">
-  <a href="https://linkedin.com/in/csuwaki"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/csuwaki/csuwaki/main/images/linkedin.png"></a>
+  <a href="https://linkedin.com/in/csuwaki"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://img.icons8.com/ios/452/linkedin.png"></a>
 </p>
