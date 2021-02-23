@@ -2,7 +2,7 @@
 
 ![alt text](./images/covergit.png)
 
-<a href="./images/covergit.png"><img src="https://github.com/csuwaki/csuwaki/blob/main/images/covergit.png" align="left" height="1000" width="5000" ></a>
+<a href="./images/covergit.png"><img src="https://github.com/csuwaki/csuwaki/blob/main/images/covergit.png" align="left" height="800" width="4000" ></a>
 
 Hello! My name is Caroline, I am an Oceanographer from Sao Paulo, Brazil. :ocean: I am currently pursuing my Master's degree in Biological Oceanography at University of Sao Paulo. I consider myself a curious person who loves to enjoy life. Riding my bike, travelling, taking pics, listening to some nice music, enjoying nature, studying about technology and spending time with friends are on the top of my list of favorite habits! 
 
