@@ -9,7 +9,7 @@
 #### I’m currently learning Python. :snake:
 
 
-#### Pronouns: she/her. :girl:
+#### Pronouns: she/her. :woman:
 
 ---
 
