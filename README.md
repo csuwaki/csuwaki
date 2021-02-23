@@ -1,6 +1,7 @@
-![Welcome] (/covergit.png?raw=true)
-
 ### Hi there 👋
+
+
+![Welcome] (/covergit.png?raw=true)
 
 <!--
 **csuwaki/csuwaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
