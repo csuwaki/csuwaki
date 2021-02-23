@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/csuwaki/<OWNER>/<OWNER>/covergit.png "Header")]
+![Welcome] (/covergit.png?raw=true)
 
 ### Hi there 👋
 
