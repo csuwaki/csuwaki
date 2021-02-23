@@ -1,6 +1,8 @@
 ### Hi there, welcome to my profile. :sunny:
 
-![alt text](./images/covergit.png){:height="36px" width="36px"}.
+![alt text](./images/covergit.png)
+
+<a href="./images/covergit.png"><img src="https://github.com/csuwaki/csuwaki/blob/main/images/covergit.png" align="left" height="48" width="48" ></a>
 
 Hello! My name is Caroline, I am an Oceanographer from Sao Paulo, Brazil. :ocean: I am currently pursuing my Master's degree in Biological Oceanography at University of Sao Paulo. I consider myself a curious person who loves to enjoy life. Riding my bike, travelling, taking pics, listening to some nice music, enjoying nature, studying about technology and spending time with friends are on the top of my list of favorite habits! 
 
