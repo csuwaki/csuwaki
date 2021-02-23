@@ -13,9 +13,9 @@ Pronouns: she/her. :girl:
 
 ### Get in touch:
 
-<a href="https://www.linkedin.com/in/csuwaki/"><img height="30" src="https://github.com/csuwaki/csuwaki/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
-<a href="mailto:csuwaki@gmail.com"><img height="30" src="https://github.com/csuwaki/csuwaki/blob/master/images/gmail.png"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/csuwaki/"><img height="30" src="https://github.com/csuwaki/csuwaki/blob/master/images/insta.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/csuwaki/"><img height="30" src="https://github.com/csuwaki/csuwaki/blob/main/images/linkedin.png"></a>&nbsp;&nbsp;
+<a href="mailto:csuwaki@gmail.com"><img height="30" src="https://github.com/csuwaki/csuwaki/blob/main/images/gmail.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/csuwaki/"><img height="30" src="https://github.com/csuwaki/csuwaki/blob/main/images/insta.png"></a>&nbsp;&nbsp;
 
 <img src="https://github.com/csuwaki/csuwaki/blob/main/images/linkedin.png" height="auto" width="40">
 
