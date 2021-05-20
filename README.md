@@ -5,9 +5,6 @@
 ---
 Hello! My name is Caroline, I am an Oceanographer from Sao Paulo, Brazil. :ocean: I am currently pursuing my Master's degree in Biological Oceanography at University of Sao Paulo - USP. I consider myself a curious person who loves to enjoy life. Riding my bike, travelling, taking pics, listening to some nice music, enjoying nature, learning about technology and spending time with my friends are on the top of my list of favorite habits! 
 
-#### I’m currently learning Python. :snake:
-
-
 #### Pronouns: she/her. :woman:
 
 ---
